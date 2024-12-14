@@ -1,16 +1,13 @@
-## Hi there 👋
+## Welcome to my world! 🌎
 
-<!--
-**davi-egito/davi-egito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🤓 I’m currently on my way towards learning Rust, StackOverflow's Protégée for some years now.
+- 🧠 Fun fact: I'm obsessed with Geography and I do know a fair amount of capital cities across the world. I've never claimed to be your average Joe guy 😉
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/daviegitocoelho/) 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=zucomania&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=zucomania&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=zucomania&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
