@@ -1,7 +1,7 @@
 ## Welcome to my world! 🌎
 
 - 🤓 I’m currently on my way towards learning Rust, StackOverflow's Protégée for some years now.
-- I'm an [IEEE member](https://ieee-collabratec.ieee.org/app/p/DaviCoelho1115348) and I work on the Computer Society Student Chapter of my University 👨‍💻
+- I'm an [IEEE member](https://ieee-collabratec.ieee.org/app/p/daviegitocoelho) and I work on the Computer Society Student Chapter of my University 👨‍💻
 - 🧠 Fun fact: I'm obsessed with Geography and I do know a fair amount of capital cities across the world. I've never claimed to be your average Joe guy 😉
 
 ## 🌐 Socials:
