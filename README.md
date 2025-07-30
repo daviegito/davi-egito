@@ -9,7 +9,6 @@ After graduating from Business Management, I've looked for new experiences and c
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daviegitocoelho/) 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=daviegito&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=daviegito&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=daviegito&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
